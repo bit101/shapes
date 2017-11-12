@@ -217,13 +217,13 @@
 		demo[func]();
 	}
 	else {
-		demo.circle();
+		// demo.circle();
 		// demo.ellipse();
 		// demo.roundRect();
 		// demo.poly();
 		// demo.star();
 		// demo.path();
-		// demo.splat();
+		demo.splat();
 		// demo.multiCurve();
 		// demo.hair();
 		// demo.multiCurveLoop();
