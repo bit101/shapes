@@ -223,13 +223,13 @@
 		// demo.poly();
 		// demo.star();
 		// demo.path();
-		demo.splat();
+		// demo.splat();
 		// demo.multiCurve();
 		// demo.hair();
 		// demo.multiCurveLoop();
 		// demo.rubberbands();
 		// demo.fractalLine();
-		// demo.heart();
+		demo.heart();
 		// demo.grid();
 		// demo.flowerdraw();
 		// demo.heartdraw();
